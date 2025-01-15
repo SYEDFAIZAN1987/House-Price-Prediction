@@ -1,6 +1,6 @@
 # 🏡 House Price Prediction Using Linear Regression
 
-![House Price Prediction](https://github.com/SYEDFAIZAN1987/House-Price-Prediction/blob/main/pic%801.jpg)
+![House Price Prediction](https://github.com/SYEDFAIZAN1987/House-Price-Prediction/blob/main/pic%201.jpg)
 
 ## 📘 About the Project
 
